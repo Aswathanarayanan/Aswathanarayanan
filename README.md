@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **M.Tech** in Computer Science & Engineering (AI/ML) – IIIT Bangalore (3.58/4)  
-- 🎓 **B.E.** in Computer Science & Engineering – Anna University (8.12/10)  
+- 🎓 **M.Tech** in Computer Science & Engineering (AI/ML) – IIIT Bangalore
+- 🎓 **B.E.** in Computer Science & Engineering – Anna University  
 - 💼 4+ years of experience building **scalable, fault-tolerant backend systems**  
 - 💡 Passionate about **system design**, **performance optimization**, and **secure API development**  
 - 🏆 **Achievements:**  
