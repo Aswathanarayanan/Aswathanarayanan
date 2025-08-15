@@ -9,8 +9,7 @@
 - 💼 4+ years of experience building **scalable, fault-tolerant backend systems**  
 - 💡 Passionate about **system design**, **performance optimization**, and **secure API development**  
 - 🏆 **Achievements:**  
-  - AIR 632 in GATE 2022 (99.18 percentile)  
-  - Star of the Month – Temenos (July 2020)  
+  - AIR 632 in GATE 2022 (99.18 percentile)
 
 ---
 
