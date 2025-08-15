@@ -32,7 +32,7 @@
 `REST APIs` `Microservices` `CI/CD` `Agile` `System Design`
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -41,6 +41,7 @@
 </p>
 
 ---
+-->
 
 ### 💼 Experience
 
